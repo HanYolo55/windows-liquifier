@@ -17,11 +17,11 @@ At the moment of v0.1 release, the detectbios.bat file does not work as intended
 
 The Windows Liquifier is intended to be downloaded as an .iso file, so the user can easily burn the image onto a USB flash drive (recommended), a DVD (maybe), or onto a hard drive (unlikely).
 
-** Requirements: **
+**Requirements:**
  - Access to a Windows computer
  - A stable internet connection
  - You may need to have administrator access to install a program necessary for imaging the drive
 
 ### Installation Steps
 
-** Step 1: ** Download Win32 Disk Imager from https://sourceforge.net/projects/win32diskimager/
+**Step 1:** Download Win32 Disk Imager from https://sourceforge.net/projects/win32diskimager/
