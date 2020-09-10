@@ -1,5 +1,5 @@
 # Windows Liquifier
- > Windows Liquifier - Your opens-source Windows Swiss Army Knife
+ > Windows Liquifier - Your open-source Windows Swiss Army Knife
 
 ## What does it do?
 
