@@ -25,7 +25,12 @@ The Windows Liquifier is intended to be downloaded as an .iso file, so the user 
 ### Installation Steps
 
 **Step 1:** Download and install Win32 Disk Imager from https://sourceforge.net/projects/win32diskimager/
+
 **Step 2:** Download either the lighter image, which has no installation files for Windows, or the full image, which does include installation files for Windows. 
+
 **Step 3:** Write an image using Win32 Disk Imager write function.
+
 **Step 4:** Boot into the drive by going to your computer's BIOS and selecting your device. For more information, go to Google and look for your computer's model number.
+
 **Step 5:** It should take about 15 seconds to about a minute max to boot into Windows PE. Follow the prompts, and you're done! Good luck and have fun.
+
