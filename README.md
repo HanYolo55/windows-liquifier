@@ -26,7 +26,7 @@ The Windows Liquifier is intended to be downloaded as an .img file, so the user 
 
 **Step 1:** Download and install Win32 Disk Imager from https://sourceforge.net/projects/win32diskimager/
 
-**Step 2:** Download either the lighter image, which has no installation files for Windows, or the full image, which does include installation files for Windows. 
+**Step 2:** Download either the lighter image, which has no installation files for Windows, or the full image, which does include installation files for Windows. Check the releases page here: https://github.com/HanYolo55/windows-liquifier/releases
 
 **Step 3:** Write an image using Win32 Disk Imager write function.
 
