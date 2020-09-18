@@ -11,7 +11,7 @@ All of these processes are linked together by a main menu of sorts, which is a b
 
 ## Bugs/Issues
 
-At the moment of v0.1 release, the detectbios.bat file does not work as intended. There may be some other minor bugs, so feel free to submit a bug report.
+At the moment of v0.2 release, there may be a few minor bugs or spelling mistakes.
 
 ## Installation
 
