@@ -30,7 +30,7 @@ The Windows Liquifier is intended to be downloaded as an .img file, so the user 
 
 **Step 3:** Write an image using Win32 Disk Imager write function.
 
-**Step 4:** Boot into the drive by going to your computer's BIOS and select your device. For more information, go to Google and look for your computer's model number.
+**Step 4:** Boot into the drive by going to your computer's BIOS and select your device. More most devices, pressing F12 or F10 will get you into the Boot Devices menu at boot. For more information, go to Google and look for your computer's model number.
 
 **Step 5:** It should take about 15 seconds to about a minute max to boot into Windows PE. Follow the prompts, and you're done! Good luck and have fun.
 
