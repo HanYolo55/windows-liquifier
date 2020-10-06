@@ -30,7 +30,7 @@ The Windows Liquifier is intended to be downloaded as an .img file, so the user 
 
 **Step 3:** Write an image using Win32 Disk Imager write function.
 
-**Step 4:** Boot into the drive by going to your computer's BIOS and select your device. For most devices, pressing F12 or F10 will get you into the Boot Devices menu at boot. For more information, go to Google and look for your computer's model number. You may need to find the BIOS master/administrator key. You can find that at this website: https://bios-pw.org/
+**Step 4:** Boot into the drive by going to your computer's BIOS and select your device. For most devices, pressing F12 or F10 will get you into the Boot Devices menu at boot. For more information, go to Google and look for your computer's model number. You may need to find the BIOS master/administrator key. You can find that at this website: https://bios-pw.org/ The code that it asks for is your computer model/service number. For Dell laptops, this number can be found by entering BIOS setup in the boot menu, which can be found by pressing F12 on boot.
 
 **Step 5:** It should take about 15 seconds to about a minute max to boot into Windows PE. Follow the prompts, and you're done! Good luck and have fun.
 
